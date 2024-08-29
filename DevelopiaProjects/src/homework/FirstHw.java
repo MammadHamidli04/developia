@@ -20,7 +20,16 @@ public class FirstHw {
 		System.out.println(f);
 		System.out.println(c);
 		System.out.println(hasHome);
-
+		System.out.println("int");
+		System.out.println("double");
+		System.out.println("char");
+		System.out.println("byte");
+		System.out.println("short");
+		System.out.println("long");
+		System.out.println("boolean");
+		System.out.println("float");
+		System.out.println("String");
+		System.out.println("Scanner");
 	}
 
 }
